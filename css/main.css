@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	background-image: url(../img/background.jpg)
+
+}
+*{
+	background-attachment: fixed;
+	border-radius: 14px;
+}
+
+.heading{
+	font-size: 70px;
+}
+
+.tshirt{
+	margin: 20px 0;
+}
